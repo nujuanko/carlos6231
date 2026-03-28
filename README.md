@@ -10,8 +10,8 @@
 
 ```bash
 apt-get install python3
-git clone https://github.com/Deadpool2000/IPicker.git
-cd IPicker
+git clone https://github.com/nujuanko/carlos6231
+cd carlos6231
 pip install -r requirements.txt
 ```
 
